@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS158
+D Quad 2 to 1 multiplexer
+K TTL Mux MUX2
+$ENDCMP
+#
+$CMP CBT3257A
+D Quad 2 to 1 multiplexer
+K TTL Mux MUX2
+$ENDCMP
+#
+#End Doc Library
