@@ -1,4 +1,4 @@
-update=Mon 04 Sep 2017 03:43:53 PM EDT
+update=Tue 05 Sep 2017 05:23:30 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=gl-power
 LibName32=libs/ESP32-footprints-Shem-Lib
 LibName33=LarkyPrintBoard
 LibName34=switches
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
